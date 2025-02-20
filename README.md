@@ -49,4 +49,23 @@ Collaborative working, one of GitHub’s fundamental features, is made possible 
 GitHub has a $200,000 contract with U.S. Immigration and Customs Enforcement (ICE) for the use of their on-site product GitHub Enterprise Server. This contract was renewed in 2019, despite internal opposition from many GitHub employees. In an email sent to employees, later posted to the GitHub blog on October 9, 2019, CEO Nat Friedman stated, "The revenue from the purchase is less than $200,000 and not financially material for our company." He announced that GitHub had pledged to donate $500,000 to "nonprofit groups supporting immigrant communities targeted by the current administration."[135] In response, at least 150 GitHub employees signed an open letter re-stating their opposition to the contract, and denouncing alleged human rights abuses by ICE. As of November 13, 2019, five workers had resigned over the contract.[136][137][138]
 
 The ICE contract dispute came into focus again in June 2020 due to the company's decision to abandon "master/slave" branch terminology, spurred by the George Floyd protests and Black Lives Matter movement.[139] Detractors of GitHub describe the branch renaming to be a form of performative activism and have urged GitHub to cancel their ICE contract instead.[140] An open letter from members of the open source community was shared on GitHub in December 2019, demanding that the company drop its contract with ICE and provide more transparency into how they conduct business and partnerships. The letter has been signed by more than 700 people.
+![ntr photo](https://github.com/ParvizSodatov/poip/blob/main/Top-10-Useful-Github-Repos-That-Every-Developer-Should-Follow.png?raw=true)
+
+GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
+What is an information gathering tool?
+Information Gathering: Concepts, Techniques and Tools ...
+There are a variety of techniques and tools that can be used for information g
+athering, including search engines, social media
+, network mapping tools, vulnerability scanners, and more. Cyber criminals also use a va
+riety of techniques to gather information, such as port scanning
+, social engineering, and packet capture
+Which is the best information gathering tool?
+Top 7 tools for intelligence-gathering purposes
+URL: https://haveibeenpwned.com.
+URL: https://intelx.io/tools.
+URL: https://whois.domaintools.com/
+URL: https://viewdns.info.
+URL: https://github.com/sherlock-project/sherlock.
+URL: https://instantusername.com/
+URL: https://github.com/smicallef/spiderfoot.
 
