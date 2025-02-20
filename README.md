@@ -11,6 +11,10 @@ Design goals of Git include speed, data integrity, and support for distributed, 
 
 It is commonly used to host open source software development projects.[10] As of January 2023, GitHub reported having over 100 million developers[11] and more than 420 million repositories,[12] including at least 28 million public repositories.[13] It is the world's largest source code host as of June 2023. Over five billion developer contributions were made to more than 500 million open source projects in 2024
 ![gitkhub](https://github.com/ParvizSodatov/poip/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true)
+
+
+
+
 Finance
 GitHub was a bootstrapped start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[24]
 
