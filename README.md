@@ -11,3 +11,20 @@ Design goals of Git include speed, data integrity, and support for distributed, 
 
 It is commonly used to host open source software development projects.[10] As of January 2023, GitHub reported having over 100 million developers[11] and more than 420 million repositories,[12] including at least 28 million public repositories.[13] It is the world's largest source code host as of June 2023. Over five billion developer contributions were made to more than 500 million open source projects in 2024
 ![gitkhub](https://github.com/ParvizSodatov/poip/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true)
+Finance
+GitHub was a bootstrapped start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[24]
+
+In July 2012, four years after the company was founded, Andreessen Horowitz invested $100 million in venture capital[8] with a $750 million valuation.[25]
+
+In July 2015 GitHub raised another $250 million (~$314 million in 2023) of venture capital in a series B round. The lead investor was Sequoia Capital, and other investors were Andreessen Horowitz, Thrive Capital, IVP (Institutional Venture Partners) and other venture capital funds.[26][27] The company was then valued at approximately $2 billion.[28]
+
+As of 2023, GitHub was estimated to generate $1 billion in revenue annually.
+The GitHub service was developed by Chris Wanstrath, P. J. Hyett, Tom Preston-Werner, and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., was formed in 2007 and is located in San Francisco.[29]
+
+
+GitHub at AWS Summit
+
+The shading of the map illustrates the number of users as a proportion of each country's Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.
+On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month. At that time, about 6,200 repositories had been forked at least once, and 4,600 had been merged.
+
+That same year, the site was used by over 100,000 users, according to GitHub,[30] and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.
