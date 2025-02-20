@@ -69,4 +69,38 @@ URL: https://github.com/sherlock-project/sherlock.
 URL: https://instantusername.com/
 URL: https://github.com/smicallef/spiderfoot.
 ![foto 123](https://github.com/ParvizSodatov/poip/blob/main/GitHub-Features.jpg?raw=true)
+Education program
+GitHub launched a new program called the GitHub Student Developer Pack to give students free access to more than a dozen popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI, and Unreal Engine to launch the program.[100]
+
+In 2016, GitHub announced the launch of the GitHub Campus Experts program[101] to train and encourage students to grow technology communities at their universities. The Campus Experts program is open to university students 18 years and older worldwide.[102] GitHub Campus Experts are one of the primary ways that GitHub funds student-oriented events and communities, Campus Experts are given access to training, funding, and additional resources to run events and grow their communities. To become a Campus Expert, applicants must complete an online training course with multiple modules to develop community leadership skills.
+
+GitHub Marketplace service
+GitHub also provides some software as a service (SaaS) integrations for adding extra features to projects. Those services include:
+
+Waffle.io: project management for software teams, which allows users to automatically see pull requests, automated builds, reviews, and deployments across repositories.[103]
+Rollbar: provides real-time debugging tools and full-stack exception reporting.[104][105]
+Codebeat: automated code analysis for web and mobile developers.[citation needed]
+Travis CI: continuous integration service.[citation needed]
+GitLocalize: provides utilities to manage project translation and internationalisation.[citation needed]
+GitHub Sponsors
+GitHub Sponsors allows users to make monthly money donations to projects hosted on GitHub.[106] The public beta was announced on May 23, 2019, and the project accepts waitlist registrations. The Verge said that GitHub Sponsors "works exactly like Patreon" because "developers can offer various funding tiers that come with different perks, and they'll receive recurring payments from supporters who want to access them and encourage their work" except with "zero fees to use the program." Furthermore, GitHub offers incentives for early adopters during the first year: it pledges to cover payment processing costs and match sponsorship payments up to $5,000 per developer. Furthermore, users can still use similar services like Patreon and Open Collective and link to their websites.[107][108]
+
+GitHub Archive Program
+Main article: GitHub Archive Program
+In July 2020, GitHub stored a February archive of the site[60] in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault. The archive contained the code of all active public repositories, as well as that of dormant but significant public repositories. The 21TB of data was stored on piqlFilm archival film reels as matrix (2D) barcode (Boxing barcode), and is expected to last 500–1,000 years.[109][110][111][112]
+
+The GitHub Archive Program is also working with partners on Project Silica, in an attempt to store all public repositories for 10,000 years. It aims to write archives into the molecular structure of quartz glass platters, using a high-precision petahertz pulse laser, i.e. one that pulses a quadrillion (1,000,000,000,000,000) times per second.[112]
+
+Controversies
+
+This article's "criticism" or "controversy" section may compromise the article's neutrality. Please help rewrite or integrate negative information to other sections through discussion on the talk page. (April 2021)
+Harassment allegations
+In March 2014, GitHub programmer Julie Ann Horvath alleged that founder and CEO Tom Preston-Werner and his wife, Theresa, engaged in a pattern of harassment against her that led to her leaving the company.[113] In April 2014, GitHub released a statement denying Horvath's allegations.[114][115][116] However, following an internal investigation, GitHub confirmed the claims. GitHub's CEO Chris Wanstrath wrote on the company blog, "The investigation found Tom Preston-Werner in his capacity as GitHub's CEO acted inappropriately, including confrontational conduct, disregard of workplace complaints, insensitivity to the impact of his spouse's presence in the workplace, and failure to enforce an agreement that his spouse should not work in the office."[117] Preston-Werner subsequently resigned from the company.[118] The firm then announced it would implement new initiatives and trainings "to make sure employee concerns and conflicts are taken seriously and dealt with appropriately."[118]
+
+Sanctions
+On July 25, 2019, a developer based in Iran wrote on Medium that GitHub had blocked his private repositories and prohibited access to GitHub pages.[119] Soon after, GitHub confirmed that it was now blocking developers in Iran, Crimea, Cuba, North Korea, and Syria from accessing private repositories.[120] However, GitHub reopened access to GitHub Pages days later, for public repositories regardless of location. It was also revealed that using GitHub while visiting sanctioned countries could result in similar actions occurring on a user's account. GitHub responded to complaints and the media through a spokesperson, saying:
+
+GitHub is subject to US trade control laws, and is committed to full compliance with applicable law. At the same time, GitHub's vision is to be the global platform for developer collaboration, no matter where developers reside. As a result, we take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.[121][122]
+
+Developers who feel that they should not have restrictions can appeal for the removal of said restrictions, including those who only travel to, and do not reside in, those countries. GitHub has forbidden the use of VPNs and IP proxies to access the site from sanctioned countries, as purchase history and IP addresses are how they flag users, among other sources
 ![trectino](https://github.com/ParvizSodatov/poip/blob/main/profile-with-readme.png?raw=true)
