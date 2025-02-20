@@ -32,3 +32,17 @@ The shading of the map illustrates the number of users as a proportion of each c
 On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month. At that time, about 6,200 repositories had been forked at least once, and 4,600 had been merged.
 
 That same year, the site was used by over 100,000 users, according to GitHub,[30] and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.
+
+
+
+
+
+GitHub is a cloud-based platform where you can store, share, and work together with others to write code.
+
+Storing your code in a "repository" on GitHub allows you to:
+
+Showcase or share your work.
+Track and manage changes to your code over time.
+Let others review your code, and make suggestions to improve it.
+Collaborate on a shared project, without worrying that your changes will impact the work of your collaborators before you're ready to integrate them.
+Collaborative working, one of GitHub’s fundamental features, is made possible by the open-source software, Git, upon which GitHub is built.
